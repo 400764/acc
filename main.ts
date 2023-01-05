@@ -1,6 +1,3 @@
-input.onButtonPressed(Button.A, function () {
-	
-})
 let 哈哈 = game.createSprite(randint(0, 3), randint(0, 3))
 let 哭哭 = game.createSprite(4, 4)
 basic.forever(function () {
